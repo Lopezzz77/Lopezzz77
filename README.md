@@ -1,6 +1,4 @@
 
-![Pink And Purple Colorful Computer Google Classroom Header](https://github.com/user-attachments/assets/b9fcb162-bad8-44dd-950a-f28923206f53)
-
  Estudiante de Informática.
  
  Escuela: E.E.S.T Nº1
