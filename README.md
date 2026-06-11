@@ -13,8 +13,7 @@
 
 🔴 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 
