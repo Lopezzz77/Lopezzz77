@@ -11,9 +11,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
+🔵  Backend
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,php,python)](https://skillicons.dev)
+
 🔴 Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,django,git,github)](https://skillicons.dev)
 
 
 
