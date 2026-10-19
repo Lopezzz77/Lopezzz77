@@ -17,7 +17,9 @@
 
 🔴 Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,django,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
+🟡 Librerias / Frameworks
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 
